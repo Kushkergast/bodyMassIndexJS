@@ -30,9 +30,6 @@ input::-webkit-inner-spin-button {
     font-size: 18px;
     text-align: center;
 }
-/* .userParams__input:hover {
-    /* box-shadow:0px 0px 10px 1px salmon; */
-/* } */
 .userParams__input:focus {
     outline: 3px solid salmon;
 }
